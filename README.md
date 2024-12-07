@@ -85,13 +85,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
-
-
-
-# TODO
-
-* Create a solution for web and mobile using HTML and CSS
-    * Look at the provided solutions, and understand why they did what they did
-* Create a solution for web and mobile using Tailwind
-* Create a solution using either, but use use Vim Motions in VSCode
-
